@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Giant Pacific Octopus",
+    "lifespan": 5,
+    "mass": 50,
+    "image": "images/giant-pacific-octopus_4x3.jpg",
+    "phylum": "Mollusca",
+    "description": "The giant Pacific octopus (Enteroctopus dofleini, formerly also Octopus apollyon), also known as the North Pacific giant octopus, is a large marine cephalopod belonging to the genus Enteroctopus. Its spatial distribution includes the coastal North Pacific, along California, Oregon, Washington, British Columbia, Alaska, Russia, Japan, and Korean Peninsula. It can be found from the intertidal zone down to 2,000 m (6,600 ft), and is best adapted to cold, oxygen-rich water. It is the largest octopus species, based on a scientific record of a 71-kg (156-lb) individual weighed live.",
+    "order": "Octopoda"
+  },
+  {
+    "name": "Common Octopus",
+    "lifespan": 2,
+    "mass": 10,
+    "image": "images/common_octopus.jpg",
+    "phylum": "Mollusca",
+    "description": "The common octopus is a mollusc belonging to the class Cephalopoda. Octopus vulgaris is one of the most studied of all octopus species, and also one of the most intelligent.",
+    "order": "Octopoda"
+  },
+  {
+    "name": "Cuttlefish",
+    "lifespan": 2,
+    "mass": 10.5,
+    "image": "images/cuttlefish.jpg",
+    "phylum": "Mollusca",
+    "description": "Cuttlefish or cuttles are marine molluscs of the order Sepiida. They belong to the class Cephalopoda, which also includes squid, octopuses, and nautiluses. Cuttlefish have a unique internal shell, the cuttlebone, which is used for control of buoyancy.",
+    "order": "Sepiida"
+  },
+  {
+    "name": "Dumbo Octopus",
+    "lifespan": 2,
+    "mass": 5.9,
+    "image": "images/dumbo_octopus.jpg",
+    "phylum": "Mollusca",
+    "description": "Grimpoteuthis is a genus of pelagic umbrella octopuses known as the dumbo octopuses. The name dumbo originates from their resemblance to the title character of Disney's 1941 film Dumbo, having a prominent ear-like fin which extends from the mantle above each eye. There are 17 species recognized in the genus.",
+    "order": "Octopoda"
+  },
+  {
+    "name": "Vampire Squid",
+    "lifespan": 8,
+    "mass": 2,
+    "image": "images/vampire_squid.jpg",
+    "phylum": "Mollusca",
+    "description": "The vampire squid is a small cephalopod found throughout temperate and tropical oceans in extreme deep sea conditions. The vampire squid uses its bioluminescent organs and its unique oxygen metabolism to thrive in the parts of the ocean with the lowest concentrations of oxygen.",
+    "order": "Vampyromorphida"
+  }
+]

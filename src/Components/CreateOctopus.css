@@ -1,0 +1,21 @@
+.labelHeader {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.labelStyling {
+    font-size: 20px;
+}
+
+.inputStyling {
+    width: 100%;
+}
+
+.inputoutStyling {
+    padding: 1%;
+}
+
+.backgroundStyling {
+    background-color: white;
+    height: 100vh;
+}

@@ -16,6 +16,26 @@
       "src": "logo512.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "airbnb-logo.png",
+      "type": "image/png",
+      "sizes": "740x433"
+    },
+    {
+      "src": "treehouse.jpg",
+      "type": "image/jpg",
+      "sizes": "1200x900"
+    },
+    {
+      "src": "filled-star.jpg",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "unfilled-star.jpg",
+      "type": "image/png",
+      "sizes": "48x48"
     }
   ],
   "start_url": ".",
